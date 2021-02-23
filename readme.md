@@ -23,6 +23,8 @@ You can find the original data [here](https://statelibrary.ncdcr.gov/fy20-statis
 
 During the workshop, we'll be writing and running Python code together in a cloud environment. I'll be live coding, with you writing the same code I'm writing on screen. A copy of the workshop materials, with all of the code and instructions, is in the Github repository. Rather than trying to follow my screen, you can pull up those materials as your reference while you type your code.
 
+With each notebook, after you click the "Open in Colab" button, click "Copy to Drive" in the notebook to create a copy associated with your own Google account.
+
 Clean notebook to code along: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/csbailey5t/nclive/blob/master/nclive_python_clean.ipynb)
 
 If you would prefer not to write code, but just run the code as I've already typed it, you can click the link below to pull up the fully written materials in a code environment.
