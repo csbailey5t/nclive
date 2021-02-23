@@ -24,3 +24,13 @@ You can find the original data [here](https://statelibrary.ncdcr.gov/fy20-statis
 During the workshop, we'll be writing and running Python code together in a cloud environment. I'll be live coding, with you writing the same code I'm writing on screen. A copy of the workshop materials, with all of the code and materials, is in the Github repository. Rather than trying to follow my screen, you can pull up those materials as your reference while you type your code.
 
 If you would prefer not to write code, but just run the code as I've already typed it, you can click one of the links below to pull up the fully written materials in a code environment.
+
+## Resources for learning Python
+
+- [A Byte of Python](https://python.swaroopch.com/) is a great intro book and reference for Python
+- [Official Python documentation](https://docs.python.org/3/), including tutorials.
+- [RealPython](https://realpython.com/) contains a lot of different tutorials at different levels
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) is a classic and free work that introduces Python by teaching you automate regular tasks.
+- [LinkedIn Learning](https://www.linkedin.com/learning/topics/python) is sometimes available for free for folks at higher ed institutions and has several series of video courses related to Python in different contexts.
+- [https://www.dataquest.io/](https://www.dataquest.io): a free then paid series of courses with an emphasis on data science
+- [Udacity](https://www.udacity.com/course/introduction-to-python--ud1110), [Coursera](https://www.coursera.org/specializations/python?), [Codeacademy](https://www.codecademy.com/catalog/language/python) all have courses, some of which are available for free
