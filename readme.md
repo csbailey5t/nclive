@@ -36,7 +36,7 @@ Fully written workshop materials: [![Open In Colab](https://colab.research.googl
 - [A Byte of Python](https://python.swaroopch.com/) is a great intro book and reference for Python
 - [Official Python documentation](https://docs.python.org/3/), including tutorials.
 - [RealPython](https://realpython.com/) contains a lot of different tutorials at different levels
-- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) is a classic and free work that introduces Python by teaching you automate regular tasks.
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) is a classic and free work that introduces Python by teaching you to automate regular tasks.
 - [LinkedIn Learning](https://www.linkedin.com/learning/topics/python) is sometimes available for free for folks at higher ed institutions and has several series of video courses related to Python in different contexts.
-- [https://www.dataquest.io/](https://www.dataquest.io): a free then paid series of courses with an emphasis on data science
+- [Dataquest](https://www.dataquest.io): a free then paid series of courses with an emphasis on data science
 - [Udacity](https://www.udacity.com/course/introduction-to-python--ud1110), [Coursera](https://www.coursera.org/specializations/python?), [Codeacademy](https://www.codecademy.com/catalog/language/python) all have courses, some of which are available for free
